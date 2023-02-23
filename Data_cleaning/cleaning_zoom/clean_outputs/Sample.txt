@@ -1,0 +1,14 @@
+Vicky:
+ Nice to meet you.
+
+Participant:
+ Nice to meet you too.
+
+Vicky:
+ What's your favourite colour?
+
+Participant:
+ I love red.
+
+Vicky:
+ Me too. What's your favourite food? I like okonomiyaki, personally
